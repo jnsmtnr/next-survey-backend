@@ -1,0 +1,22 @@
+{
+  "name": "next-survey-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnsmtnr/next-survey-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnsmtnr/next-survey-backend/issues"
+  },
+  "homepage": "https://github.com/jnsmtnr/next-survey-backend#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
